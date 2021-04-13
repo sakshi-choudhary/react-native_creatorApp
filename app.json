@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sakshiapp",
-    "slug": "sakshiapp",
+    "name": "taskapp",
+    "slug": "taskapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "sakshi's first app"
   }
 }
